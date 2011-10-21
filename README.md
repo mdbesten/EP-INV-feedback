@@ -1,6 +1,6 @@
 EP-INV-feedback
 ==============
-Basic prototype for providing feedback regarding name-attributions.
+Basic prototype describing a mechanism for feedback regarding name-attributions.
 
 Background
 ----------
@@ -18,10 +18,10 @@ errors.
 
 Usage
 -----
-In [R][]:
+In [R](http://www.r-project.org):
 
-   > source("bicocca.R")
-   > rfeedback()
+   > source("bicocca.R");
+   > rfeedback();
 
 Acknowledgments
 ---------------
@@ -30,5 +30,4 @@ with a Short Visit Grant within the framework of the programme
 ["Academic Patenting in Europe"][ape].
 
 
-[ape]:[http://www.esf-ape-inv.eu] 
-[R]:[http://www.r-project.org]
+[ape]: http://www.esf-ape-inv.eu 
